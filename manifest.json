@@ -1,5 +1,5 @@
 {
-  "version": 2,
-  "notes": "OTA update system + larger app partition",
+  "version": 3,
+  "notes": "OTA update test",
   "url": "https://raw.githubusercontent.com/RitvarsE/esp-tower-releases/main/firmware.bin"
 }
