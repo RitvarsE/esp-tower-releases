@@ -1,5 +1,5 @@
 {
-  "version": 3,
-  "notes": "OTA update test",
+  "version": 4,
+  "notes": "WiFi signal quality on OLED (Poor/OK/Good/Great), NTP real-time timestamp in MQTT hits",
   "url": "https://raw.githubusercontent.com/RitvarsE/esp-tower-releases/main/firmware.bin"
 }
