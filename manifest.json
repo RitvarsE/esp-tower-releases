@@ -1,5 +1,5 @@
 {
-  "version": 5,
-  "notes": "Web OTA progress bar + speed, firmware version in OLED title bar and MQTT status, webpage embedded in firmware",
+  "version": 6,
+  "notes": "esp-management protocol: LWT, cmd subscribe, online status, all 7 actions, setBufferSize 1024",
   "url": "https://raw.githubusercontent.com/RitvarsE/esp-tower-releases/main/firmware.bin"
 }
